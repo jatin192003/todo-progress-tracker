@@ -1,4 +1,4 @@
-#Todo List with Progress Tracker
+# Todo List with Progress Tracker
 
 A modern, feature-rich todo list application built with React, DaisyUI, and TailwindCSS. it helps users manage their tasks efficiently with a clean, responsive interface and intuitive features.
 
